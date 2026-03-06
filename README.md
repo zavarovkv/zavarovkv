@@ -8,5 +8,4 @@
   🎓 From 2021 to 2025 I taught project and product management courses at Yandex Practicum. Graduated 300+ students. Now I offer [personal 
   consultations](https://zavarov.com/consultation/).
   
-  ☕️ Let's connect: [LinkedIn](https://www.linkedin.com/in/zavarovkv/)[Telegram](https://t.me/zavarov)
-  
+  ☕️ Let's connect: [LinkedIn](https://www.linkedin.com/in/zavarovkv/) · [Telegram](https://t.me/zavarov)
