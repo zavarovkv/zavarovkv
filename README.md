@@ -1,16 +1,20 @@
-## Hi there 👋
+ ## Hi 👋                                                               
+                                                                         
+  👨‍💻 My name is Konstantin Zavarov. I build digital products and help                                                                          
+  others learn to build them well.
+  
+  🚀 12+ years in IT — from software developer to Head of Product at     
+  Ozon. Previously worked at Yandex, Megamarket, and Kaspersky Lab across
+   different domains and scales. Currently focused on product strategy,  
+  business value creation, and building product teams.      
 
-<!--
-**zavarovkv/zavarovkv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ✍️  I write a blog at [zavarov.com](https://zavarov.com/) and run a     
+  Telegram channel [«Kod Prodakta»](https://t.me/pmgen) about product
+  management.                                                            
+                                                            
+  🎓 From 2021 to 2025 I taught project and product management courses at
+   Yandex Practicum. Graduated 300+ students. Now I offer [personal 
+  consultations](https://zavarov.com/consultation/).                     
+                                                            
+  ☕️ Let's connect: [LinkedIn](https://www.linkedin.com/in/zavarovkv/) · 
+  [Telegram](https://t.me/zavarov)
